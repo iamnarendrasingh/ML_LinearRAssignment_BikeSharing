@@ -44,21 +44,22 @@ You are required to model the demand for shared bikes with the available indepen
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-
+=========================================
 ## Technologies Used
--pandas as pd: for data manipulation and analysis.
--numpy as np: for numerical operations.
--matplotlib.pyplot as plt: for data visualization.
--seaborn as sns: for data visualization.
--autoviz.AutoViz_Class from the autoviz library: for automatic visualization of data.
--matplotlib.gridspec as GridSpec: for creating subplots in Matplotlib.
--sklearn.model_selection as train_test_split: for splitting data into training and testing sets.
--sklearn.preprocessing as StandardScaler: for standardizing data.
--statsmodels.api as sm: for statistical analysis and modelling.
--sklearn.feature_selection as RFE: for feature selection.
--sklearn.linear_model as LinearRegression: for linear regression modelling.
--statsmodels.stats.outliers_influence as variance_inflation_factor: for calculating variance inflation factors.
--warnings: for handling warnings during code execution.
+=========================================
+	-pandas as pd: for data manipulation and analysis.
+	-numpy as np: for numerical operations.
+	-matplotlib.pyplot as plt: for data visualization.
+	-seaborn as sns: for data visualization.
+	-autoviz.AutoViz_Class from the autoviz library: for automatic visualization of data.
+	-matplotlib.gridspec as GridSpec: for creating subplots in Matplotlib.
+	-sklearn.model_selection as train_test_split: for splitting data into training and testing sets.
+	-sklearn.preprocessing as StandardScaler: for standardizing data.
+	-statsmodels.api as sm: for statistical analysis and modelling.
+	-sklearn.feature_selection as RFE: for feature selection.
+	-sklearn.linear_model as LinearRegression: for linear regression modelling.
+	-statsmodels.stats.outliers_influence as variance_inflation_factor: for calculating variance inflation factors.
+	-warnings: for handling warnings during code execution.
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
@@ -90,29 +91,6 @@ day.csv have the following fields:
 	- registered: count of registered users
 	- cnt: count of total rental bikes including both casual and registered
 	
-=========================================
-License
-=========================================
-Use of this dataset in publications must be cited to the following publication:
-
-[1] Fanaee-T, Hadi, and Gama, Joao, "Event labeling combining ensemble detectors and background knowledge", Progress in Artificial Intelligence (2013): pp. 1-15, Springer Berlin Heidelberg, doi:10.1007/s13748-013-0040-3.
-
-@article{
-	year={2013},
-	issn={2192-6352},
-	journal={Progress in Artificial Intelligence},
-	doi={10.1007/s13748-013-0040-3},
-	title={Event labeling combining ensemble detectors and background knowledge},
-	url={http://dx.doi.org/10.1007/s13748-013-0040-3},
-	publisher={Springer Berlin Heidelberg},
-	keywords={Event labeling; Event detection; Ensemble learning; Background knowledge},
-	author={Fanaee-T, Hadi and Gama, Joao},
-	pages={1-15}
-}
-
-
-
-
 ## Contact
 Created by [@iamnarendrasingh] - feel free to contact me!
 
