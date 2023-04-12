@@ -47,19 +47,15 @@ You are required to model the demand for shared bikes with the available indepen
 =========================================
 ## Technologies Used
 =========================================
-	-pandas as pd: for data manipulation and analysis.
-	-numpy as np: for numerical operations.
-	-matplotlib.pyplot as plt: for data visualization.
-	-seaborn as sns: for data visualization.
-	-autoviz.AutoViz_Class from the autoviz library: for automatic visualization of data.
-	-matplotlib.gridspec as GridSpec: for creating subplots in Matplotlib.
-	-sklearn.model_selection as train_test_split: for splitting data into training and testing sets.
-	-sklearn.preprocessing as StandardScaler: for standardizing data.
-	-statsmodels.api as sm: for statistical analysis and modelling.
-	-sklearn.feature_selection as RFE: for feature selection.
-	-sklearn.linear_model as LinearRegression: for linear regression modelling.
-	-statsmodels.stats.outliers_influence as variance_inflation_factor: for calculating variance inflation factors.
-	-warnings: for handling warnings during code execution.
+1. pandas as pd: for data manipulation and analysis.
+2. numpy as np: for numerical operations.
+3. -matplotlib.pyplot as plt: for data visualization.
+4. seaborn as sns: for data visualization.
+5. autoviz.AutoViz_Class from the autoviz library: for automatic visualization of data.
+6. matplotlib.gridspec as GridSpec: for creating subplots in Matplotlib.
+7. sklearn.model_selection as train_test_split: for splitting data into training and testing sets.
+8. statsmodels.stats.outliers_influence as variance_inflation_factor: for calculating variance inflation factors.
+9. warnings: for handling warnings during code execution.
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
