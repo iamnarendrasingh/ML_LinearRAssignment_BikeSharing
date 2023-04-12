@@ -63,11 +63,8 @@ You are required to model the demand for shared bikes with the available indepen
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-
-
-=========================================
 Dataset characteristics
-=========================================	
+
 day.csv have the following fields:
 	
 	- instant: record index
